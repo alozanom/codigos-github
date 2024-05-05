@@ -14,4 +14,4 @@ elif numero == 6:
 elif numero == 7:
     print("Domingo")
 else:
-    print("Número inválido. Ingrese un número del 1 al 7.")
+    print("Número es inválido. Ingrese un número del 1 al 7.")
